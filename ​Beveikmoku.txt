@@ -1,1 +1,0 @@
-Prideti ir sucommitinti faila beveikmoku.txt
